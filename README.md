@@ -20,4 +20,4 @@ The dataset used for this project consists of 10083 images of tomato leaves, cat
 ## Model
 The model is built using Xception which is a one type of a convolutional neural network architecture that particularly suitable for image classification and modeling It is an extension of the Inception architecture that replaces the standard Inception modules with depthwise separable convolutions, which can lead to more efficient models with fewer parameters while maintaining high performance. By leveraging this particular model about 82% disease is detectable accurately that properly alligns to real world scenarios.  
 
-### To know more about this project, check out the report file
+### To know more about this project, check out the report file on main branch
